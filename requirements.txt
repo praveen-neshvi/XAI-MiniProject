@@ -1,0 +1,4 @@
+# PyTorch: for GPU/CUDA, install the matching wheel from https://pytorch.org/ first, then run pip again.
+torch>=2.0.0
+torch-geometric>=2.4.0
+pyvis>=0.3.2
